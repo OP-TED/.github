@@ -1,5 +1,4 @@
-This repository contains all the open source work of the TED Unit[^ted-unit] of the Publications Office of the EU.
-Let us guide you to what you can find here:
+This repository contains the open source work of the TED Unit[^ted-unit] of the Publications Office of the EU.
 
 [^ted-unit]: The TED & EU Public Procurement Unit of the Publications Office of the European Union is responsible for the collection and publication of EU public procurement notices in OJ/S[^ojs].
 [^ojs]: The Supplement of the Official Journal of the European Union (https://ted.europa.eu).
