@@ -62,8 +62,6 @@ _RML mapping of legacy TED XML and eForms XML data to eProcurement Ontology RDF.
 - Git: [**OP-TED/ted-rdf-conversion-pipeline**](https://github.com/OP-TED/ted-rdf-conversion-pipeline)
 - Docs: https://docs.ted.europa.eu/rdf-conversion
 
-
-## Documentation as code
 <!--
 
 **Here are some ideas to get you started:**
