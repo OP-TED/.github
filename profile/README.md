@@ -1,5 +1,3 @@
-# Welcome
-
 This repository contains all the open source work of the TED Unit[^ted-unit] of the Publications Office of the EU.
 Let us guide you to what you can find here:
 
