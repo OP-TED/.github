@@ -1,66 +1,41 @@
-This repository contains the open source work of the TED Unit[^ted-unit] of the Publications Office of the EU.
+We are the TED & EU Public Procurement Unit of the Publications Office of the European Union. 
 
-[^ted-unit]: The TED & EU Public Procurement Unit of the Publications Office of the European Union is responsible for the collection and publication of EU public procurement notices in OJ/S[^ojs].
-[^ojs]: The Supplement of the Official Journal of the European Union (https://ted.europa.eu).
 ## :diamond_shape_with_a_dot_inside: eForms
 _The notification standard for public procurement procedures in the EU._
 
-### eForms SDK
-_Provides the foundation for building eForms applications._
-- Git: **[OP-TED/eForms-SDK](https://github.com/OP-TED/eForms-SDK)**
-- Docs: https://docs.ted.europa.eu/eforms/latest
+- **eForms SDK**: _Provides the foundation for building eForms applications._  
+  Repo: [**OP-TED/eForms-SDK**](https://github.com/OP-TED/eForms-SDK) | Docs: https://docs.ted.europa.eu/eforms/latest
+- **EFX Toolkit**: _Java library you can use to translate EFX expressions to different target languages._  
+  Repo: [**OP-TED/efx-toolkit-java**]() | Docs: https://docs.ted.europa.eu/eforms/latest/efx-toolkit
+- **eForms Core Library**:  
+  Repo: [**OP-TED/eforms-core-java**]()
+- **TED XML Data Converter**: _XSLT based conversion of legacy TED-XML notices to eForms notices._  
+  Repo: [**OP-TED/ted-xml-data-converter**](https://github.com/OP-TED/ted-xml-data-converter)
+- **Notice Viewer Sample App**: _Demonstrates[^samples] the use of eForms SDK to visualise eForms notices in HTML._  
+  Repo: **[OP-TED/eforms-notice-viewer]()** | Docs: https://docs.ted.europa.eu/eforms/latest/notice-viewer
+- **Notice Editor Sample App**: _Demonstrates[^samples] the use of eForms SDK to create and edit eForms notices._  
+  Repo: [**OP-TED/eforms-notice-editor**](https://github.com/OP-TED/eforms-notice-editor)
 
-### EFX Toolkit
-_Java library you can use to translate EFX expressions to different target languages._
-- Git: [**OP-TED/efx-toolkit-java**]() 
-- Docs: https://docs.ted.europa.eu/eforms/latest/efx-toolkit
-
-### eForms Core Library
-- Git: [**OP-TED/eforms-core-java**]()
-
-### Sample Applications
 [^samples]: Sample applications are not production ready applications. They are provided to demonstrate how to use specific concepts to achieve the intended results.
-
-#### Notice Viewer
-_Demonstrates[^samples] the use of eForms SDK to visualise eForms notices in HTML._
-- Git: **[OP-TED/eforms-notice-viewer]()**
-- Docs: https://docs.ted.europa.eu/eforms/latest/notice-viewer
-
-#### Notice Editor
-_Demonstrates[^samples] the use of eForms SDK to create and edit eForms notices._
-- Git: [**OP-TED/eforms-notice-editor**](https://github.com/OP-TED/eforms-notice-editor)
-
-### TED XML Data Converter
-_XSLT based conversion of legacy TED-XML notices to eForms notices._
-
-- Git: [**OP-TED/ted-xml-data-converter**](https://github.com/OP-TED/ted-xml-data-converter)
 
 ## :diamond_shape_with_a_dot_inside: eProcurement Ontology
 _The formal, semantic foundation for the creation and reuse of linked open data in the domain of public procurement in the EU._
-- Git: [**OP-TED/ePO**](https://github.com/OP-TED/ePO)
-- Docs: https://docs.ted.europa.eu/EPO/dev
+- Repo: [**OP-TED/ePO**](https://github.com/OP-TED/ePO) | Docs: https://docs.ted.europa.eu/EPO/dev
 
 ## :diamond_shape_with_a_dot_inside: ESPD-EDM
 _Enables applications to integrate with national ESPD[^espd] service providers._
 [^espd]: The European Single Procurement Document (ESPD) enables accelerated processing of preliminary evidence in EU public procurement.
-
-- Git: [**OP-TED/ESPD-EDM**](https://github.com/OP-TED/ESPD-EDM)
-- Docs: https://docs.ted.europa.eu/ESPD-EDM/latest
+- Repo: [**OP-TED/ESPD-EDM**](https://github.com/OP-TED/ESPD-EDM) | Docs: https://docs.ted.europa.eu/ESPD-EDM/latest
 
 ## :diamond_shape_with_a_dot_inside: TED Semantic Web Service
 _Builds on the eProcurement Ontology, to convert and publish TED data[^ted-data] as linked open data._
 
 [^ted-data]: TED data are EU public procurement notification data published on the OJ/S (TED website).
 
-### RDF Mapping
-_RML mapping of legacy TED XML and eForms XML data to eProcurement Ontology RDF._
-
-- Git: [**OP-TED/ted-xml-mapping**](https://github.com/OP-TED/ted-xml-data-converter)
-- Docs: https://docs.ted.europa.eu/rdf-mapping
-
-### RDF Conversion Pipeline
-- Git: [**OP-TED/ted-rdf-conversion-pipeline**](https://github.com/OP-TED/ted-rdf-conversion-pipeline)
-- Docs: https://docs.ted.europa.eu/rdf-conversion
+- **RDF Mapping**: _RML mapping of legacy TED XML and eForms XML data to eProcurement Ontology RDF._  
+  Repo: [**OP-TED/ted-xml-mapping**](https://github.com/OP-TED/ted-xml-data-converter) | Docs: https://docs.ted.europa.eu/rdf-mapping
+- **RDF Conversion Pipeline**:  
+  Git: [**OP-TED/ted-rdf-conversion-pipeline**](https://github.com/OP-TED/ted-rdf-conversion-pipeline) | Docs: https://docs.ted.europa.eu/rdf-conversion
 
 <!--
 
