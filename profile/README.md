@@ -6,7 +6,7 @@ Find below a summary of the work we share on Github. Also, see our [**Developer 
 _The notification standard for public procurement procedures in the EU._
 
 - [**eForms SDK**](https://github.com/OP-TED/eForms-SDK): _Provides the foundation for building eForms applications.
-  [[see docs](https://docs.ted.europa.eu/eforms/latest)]_
+  [[see docs](https://docs.ted.europa.eu/eforms/latest)] [[developer forum](https://github.com/OP-TED/eForms-SDK/discussions)]_
 - [**EFX Toolkit**](https://github.com/OP-TED/efx-toolkit-java): _Java library you can use to translate EFX expressions to different target languages.
   [[see docs](https://docs.ted.europa.eu/eforms/latest/efx-toolkit)]_
 - [**eForms Core Library**](https://github.com/OP-TED/eforms-core-java): _Java library providing utilities commonly needed by eFroms Applications._
