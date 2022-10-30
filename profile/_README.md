@@ -1,5 +1,6 @@
 We are the TED & EU Public Procurement Unit of the Publications Office of the European Union.  
-Here is a summary of the work we share on Github:
+Find below a summary of the work we share on Github. Also, see our [**Developer Documentation**](https://docs.ted.europa.eu/) site and [**Developer Portal**](https://developer.ted.europa.eu/).
+
 
 ## :diamond_shape_with_a_dot_inside: eForms
 _The notification standard for public procurement procedures in the EU._
@@ -28,6 +29,7 @@ _The formal, semantic foundation for the creation and reuse of linked open data 
 _The European Single Procurement Document (ESPD) enables accelerated processing of preliminary evidence in EU public procurement._
 - [**ESPD-EDM**](https://github.com/OP-TED/ESPD-EDM): _Enables applications to integrate with national ESPD service providers.
   [[see docs](https://docs.ted.europa.eu/ESPD-EDM/latest)]_
+
 
 <!--
 
