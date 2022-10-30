@@ -27,7 +27,7 @@ _The formal, semantic foundation for the creation and reuse of linked open data 
 
 ## :diamond_shape_with_a_dot_inside: ESPD Exchange Data Model
 _The European Single Procurement Document (ESPD) enables accelerated processing of preliminary evidence in EU public procurement._
-- [**ESPD-EDM**](https://github.com/OP-TED/ESPD-EDM): _Enables applications to integrate with national ESPD service providers.
+- [**ESPD-EDM**](https://github.com/OP-TED/ESPD-EDM): _Allows applications to integrate with national ESPD service providers.
   [[see docs](https://docs.ted.europa.eu/ESPD-EDM/latest)]_
 
 
