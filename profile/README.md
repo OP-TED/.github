@@ -11,7 +11,7 @@ _The notification standard for public procurement procedures in the EU._
   [[contribute here](https://github.com/OP-TED/eforms-sdk-explorer)]_
 - [**EFX Toolkit**](https://github.com/OP-TED/efx-toolkit-java): _Java library you can use to translate EFX expressions to different target languages.
   [[see docs](https://docs.ted.europa.eu/eforms/latest/efx-toolkit)]_
-- [**eForms Core Library**](https://github.com/OP-TED/eforms-core-java): _Java library providing utilities commonly needed by eFroms Applications._
+- [**eForms Core Library**](https://github.com/OP-TED/eforms-core-java): _Java library providing utilities commonly needed by eForms Applications._
 - [**XML Data Converter**](https://github.com/OP-TED/ted-xml-data-converter): _XSLT based conversion of legacy TED-XML notices to eForms notices._
 - [**Notice Viewer Sample**](https://github.com/OP-TED/eforms-notice-viewer): _Sample App using eForms SDK to visualise eForms notices in HTML.
    [[see docs](https://docs.ted.europa.eu/eforms/latest/notice-viewer)]_
